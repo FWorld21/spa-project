@@ -1,0 +1,5 @@
+api.txt
+chat_id.txt
+db.sqlite3
+__pycache__
+*.log
